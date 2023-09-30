@@ -1,0 +1,39 @@
+<html lang="en">
+<head>
+    <title>Register Student</title>
+</head>
+<body>
+<center>
+    <h1>REGISTER A NEW STUDENT</h1>
+    <h2>Please Fill The Required Information</h2>
+    <form action ="reg_std.php" method = "post">
+        <h3>First name</h3>
+        <input type="text" name="fname" placeholder="first name" required>
+        <h3>Last name</h3>
+        <input type="text" name="lname" placeholder="last name" required>
+        <h3>Email</h3>
+        <input type="text" name="email" placeholder="email" required>
+        <h3>Department</h3>
+        <input type="text" name="department" placeholder="department" required>
+        <h3>Address</h3>
+        <input type="text" name="address" placeholder="address" required>
+        <h3>Number</h3>
+        <input type="text" name="number" placeholder="number" required>
+        <h3>Select a Course</h3>
+        <select name="course_id">
+            <option value="">Select a Course</option>
+            <option value="1">Introduction to Programming (CS)</option>
+            <option value="2">Database Management (CS)</option>
+            <option value="3">Mechanics of Materials (ME)</option>
+            <option value="4">Electromagnetic Fields (EE)</option>
+            <option value="5">Marketing Management (BA)</option>
+            <option value="5">Structural Engineering (CE)</option>
+        </select>
+
+        <br><br>
+        <input type="submit" name="submit" required>
+    </form>
+</center>
+</body>
+</html>
+

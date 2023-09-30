@@ -1,0 +1,39 @@
+*{
+	box-sizing: border-box;
+}
+
+body{
+	font-family: 'montserrat',sans-serif;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-color: #d8d8d8;
+    color : rgb(53, 53, 53);
+}
+
+#leftcontainer
+{
+    align-items: center;
+	height: 500px;
+	width: 400px;
+	margin-top: 60px;
+    margin-left: 200px;
+	opacity: 1.1;
+	box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+    color : rgb(255, 255, 255);
+	background-color: #3f3f3f;
+}
+
+.input{
+    margin-left: 120px;
+    margin-right: 100px;
+}
+
+#signin, #sign_in_btn{
+    margin-left: 150px;
+    margin-right: 100px;
+}
+
+
+
+
