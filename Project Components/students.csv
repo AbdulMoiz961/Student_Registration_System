@@ -1,8 +1,0 @@
-"id","fname","lname","email","address","number","course_id","department_id"
-"1","John","Doe","johndoe@example.com","123 Main St","123-456-7890","1","CS"
-"2","John","Smith","janesmith@example.com","456 Elm St","987-654-3210","2","CS"
-"3","Alice","Johnson","alicejohnson@example.com","789 Oak St","555-123-4567","3","ME"
-"4","Bob","Williams","bobwilliams@example.com","321 Pine St","777-888-9999","4","EE"
-"5","Eva","Brown","evabrown@example.com","555 Cedar St","111-222-3333","5","BA"
-"8","Abdul","Rafay","rafay13@protonmail.com","shah faisal colony, House no. 69","03114895725","5",NULL
-"9","Iqbal","Hussain","IqbalHussain@example.com","123 Main St","123-456-7890","6","CE"
